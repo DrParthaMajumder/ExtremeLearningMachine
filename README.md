@@ -5,6 +5,7 @@ Unlike traditional neural network architectures, ELM has a unique characteristic
 ELM is known for its fast learning speed, as it only requires a one-time random weight initialization and a simple output weight calculation. This eliminates the iterative training process commonly found in traditional neural networks, making ELM significantly faster and more efficient. ELM has several advantages and applications. Some key advantages include:
 
 **Computational Efficiency:**
+
 ELM is computationally efficient due to its simple and fast learning process. This makes it suitable for large-scale datasets and real-time applications.
 
 **Universal Approximation:** 

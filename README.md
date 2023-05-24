@@ -10,7 +10,7 @@ ELM is computationally efficient due to its simple and fast learning process. Th
 **Universal Approximation:** 
 ELM has been proven to have universal approximation capabilities, meaning it can approximate any continuous function with arbitrary precision given enough hidden neurons.
 
-**Robustness: **
+**Robustness:**
 ELM is robust to overfitting since the input weights are fixed and randomly initialized. This helps prevent the model from memorizing the training data.
 ELM has found applications in various domains, including regression, classification, pattern recognition, time series prediction, and feature learning. It has been successfully used in fields such as image and speech recognition, bioinformatics, finance, and many others.
 
